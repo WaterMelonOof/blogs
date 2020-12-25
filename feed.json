@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blogs",
+    "description": "",
+    "home_page_url": "https://blogs.watermelonice.xyz",
+    "feed_url": "https://blogs.watermelonice.xyz/feed.json",
+    "user_comment": "",
+    "icon": "https://blogs.watermelonice.xyz/media/website/Resized-512x512-2.png",
+    "author": {
+        "name": "WatermelonIce"
+    },
+    "items": [
+        {
+            "id": "https://blogs.watermelonice.xyz/merry-christmas/",
+            "url": "https://blogs.watermelonice.xyz/merry-christmas/",
+            "title": "Merry Christmas!",
+            "summary": "It's Christmas today! 2020 has been a tough year so let's hope for better 2021! 🎅",
+            "content_html": "<p>It's Christmas today! 2020 has been a tough year so let's hope for better 2021!</p>\n<p><img loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/5/53/Christmas_candle_snowman_with_lights.jpg\" data-is-external-image=\"true\"  alt=\"File:Christmas candle snowman with lights.jpg - Wikimedia Commons\"></p>\n<p>🎅</p>",
+            "author": {
+                "name": "WatermelonIce"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-25T17:55:38+08:00",
+            "date_modified": "2020-12-25T17:55:38+08:00"
+        },
+        {
+            "id": "https://blogs.watermelonice.xyz/first-blog/",
+            "url": "https://blogs.watermelonice.xyz/first-blog/",
+            "title": "First Blog",
+            "summary": "Hi, I am WatermelonIce and I am very honoured to announce my new website! Thank you for visiting this site.",
+            "content_html": "<p>Hi, I am WatermelonIce and I am very honoured to announce my new website! Thank you for visiting this site. I post blogs occasionally and I don't have much experience so don't expect too much from me 😅</p>\n<p> </p>\n<p>You can also check out all my works here -&gt; <a href=\"works.watermelonice.xyz\" target=\"_blank\" rel=\"noopener noreferrer\">works.watermelonice.xyz</a></p>",
+            "author": {
+                "name": "WatermelonIce"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-25T17:25:28+08:00",
+            "date_modified": "2020-12-25T17:25:28+08:00"
+        }
+    ]
+}
