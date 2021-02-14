@@ -3,12 +3,38 @@
     <title>Blogs</title>
     <link href="https://blogs.watermelonice.xyz/feed.xml" rel="self" />
     <link href="https://blogs.watermelonice.xyz" />
-    <updated>2020-12-25T17:55:38+08:00</updated>
+    <updated>2021-02-14T23:18:34+08:00</updated>
     <author>
         <name>WatermelonIce</name>
     </author>
     <id>https://blogs.watermelonice.xyz</id>
 
+    <entry>
+        <title>Happy Lunar New Year!</title>
+        <author>
+            <name>WatermelonIce</name>
+        </author>
+        <link href="https://blogs.watermelonice.xyz/happy-lunar-new-year/"/>
+        <id>https://blogs.watermelonice.xyz/happy-lunar-new-year/</id>
+
+        <updated>2021-02-14T23:18:34+08:00</updated>
+            <summary>
+                <![CDATA[
+                    This year is Ox. year. I wish all of you luck! “The year of the ox brings career advancement, success&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This year is Ox. year. I wish all of you luck!</p>
+<blockquote>
+<p>“The year of the ox brings career advancement, success in business, prosperity, and wellness for all zodiac signs,” chinesenewyear.net reports. “This year predicts new career opportunities, so don’t let anxiety or negative thinking affect you.”</p>
+</blockquote>
+<p><figure class="post__image"><img loading="lazy" src="https://blogs.watermelonice.xyz/media/posts/3/ox_year.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blogs.watermelonice.xyz/media/posts/3/responsive/ox_year-xs.jpg 300w ,https://blogs.watermelonice.xyz/media/posts/3/responsive/ox_year-sm.jpg 480w ,https://blogs.watermelonice.xyz/media/posts/3/responsive/ox_year-md.jpg 768w"  alt="ox_year" width="1024" height="576" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://blogs.watermelonice.xyz/media/posts/3/lunar-new-year-2021.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blogs.watermelonice.xyz/media/posts/3/responsive/lunar-new-year-2021-xs.png 300w ,https://blogs.watermelonice.xyz/media/posts/3/responsive/lunar-new-year-2021-sm.png 480w ,https://blogs.watermelonice.xyz/media/posts/3/responsive/lunar-new-year-2021-md.png 768w"  alt="lunar-new-year-2021" width="1280" height="661" /></figure></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Merry Christmas!</title>
         <author>
